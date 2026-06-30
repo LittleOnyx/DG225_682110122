@@ -17,3 +17,5 @@ Content/obj/
 # OS
 .DS_Store
 Thumbs.db
+04-Create-MonoGame.ps1
+03-Setup-VSCode.ps1
